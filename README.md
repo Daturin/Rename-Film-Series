@@ -15,7 +15,7 @@ The .txt script permit to determine which words could be delete from filenames.
 
 # SCRIPTS
 
-# Plex_NAS.bat : 
+# RenameF&S.bat : 
 
 When you doawnload movies or series, the files may be stocked into a directory.
 The first step allows you to remove the file from the directory that contains it and put it in the root of the download directory.
@@ -24,7 +24,7 @@ A function was include this year to ignore if file are dowloading currently the 
 The ".part" file are ignored.
 
 
-# Plex_NAS.ps1 :
+# RenameF&S.ps1 :
 
 This script allows you to rename all the files in your download directory.
 Folder and files being downloaded are ignored.
