@@ -1,0 +1,30 @@
+//Ceci est un commentaire
+//Rajouter une chaine de caractere qui doit etre remplacee
+FASTSUB
+AC3
+AC3-TMB
+TRUEFRENCH
+Cortex91
+BDRip
+DVDRip
+RERiP
+WEBRip
+SUB
+BluRay.x264-LOST
+BluRayx26
+720p
+1080p
+HDTV
+VOSTFR
+WEB-DL
+//Le symbole * permet de prendre en compte les caracteres apres une chaine de caractere ici : Xvid
+SUBFRENCH *.*
+BluRay *.*
+PROPER *.*
+FANSUB *.*
+iNTERNAL *.*
+XviD *.*
+DivX *.*
+FRENCH *.*
+LiMiTED *.*
+FiNAL *.*
