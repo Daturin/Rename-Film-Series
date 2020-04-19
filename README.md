@@ -2,7 +2,7 @@
 
 To install it right you need to define :
 
-	- the folder where your files has been doawload 
+	- the folder where your files has been download 
 	- the folder where your files need to be moved
 	- this folder need to contains two  subfolders : "Movies" and "Series" 
 
@@ -15,7 +15,7 @@ The .txt script permit to determine which words could be delete from filenames.
 
 # SCRIPTS
 
-# RenameF&S.bat : 
+# RenameM&S.bat : 
 
 When you doawnload movies or series, the files may be stocked into a directory.
 The first step allows you to remove the file from the directory that contains it and put it in the root of the download directory.
@@ -24,7 +24,7 @@ A function was include this year to ignore if file are dowloading currently the 
 The ".part" file are ignored.
 
 
-# RenameF&S.ps1 :
+# RenameM&S.ps1 :
 
 This script allows you to rename all the files in your download directory.
 Folder and files being downloaded are ignored.
@@ -41,7 +41,7 @@ The second step:
 
 The third step:
 	
-	- read the "Config_Plex" file and rename the films if they contain words from the "Config_Pex" file
+	- read the "Config_Plex" file and rename the movies if they contain words from the "Config_Pex" file
 	- there is a subtlety in this configuration file, you can delete all the characters after a keyword
 	- For example if you write: FRANÇAIS *. * -> All characters after this keyword are deleted (so be careful!)
 
